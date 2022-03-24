@@ -33,7 +33,7 @@ public class AlumnoController {
     public CustomResponse createAlumno(@RequestBody AlumnoModel alumnoModel) {
         CustomResponse customResponse = new CustomResponse();
         alumnoService.calcularIca(alumnoModel);
-        customResponse.setData(alumnoModel);
+        customResponse.setData(alumnoService.calcularIca(alumnoModel));
         return customResponse;
     }
     
