@@ -1,0 +1,9 @@
+edu\mx\tecnm\oaxaca\servicenesaexauno\controller\AlumnoController.class
+edu\mx\tecnm\oaxaca\servicenesaexauno\repository\AlumnoRepository.class
+edu\mx\tecnm\oaxaca\servicenesaexauno\service\AlumnoService.class
+edu\mx\tecnm\oaxaca\servicenesaexauno\implement\service\AlumnoServiceImplement.class
+edu\mx\tecnm\oaxaca\servicenesaexauno\ServiceclienteApplication.class
+edu\mx\tecnm\oaxaca\servicenesaexauno\utils\CustomResponse.class
+edu\mx\tecnm\oaxaca\servicenesaexauno\model\AlumnoModel.class
+edu\mx\tecnm\oaxaca\servicenesaexauno\utils\Calcular.class
+edu\mx\tecnm\oaxaca\servicenesaexauno\ServletInitializer.class
